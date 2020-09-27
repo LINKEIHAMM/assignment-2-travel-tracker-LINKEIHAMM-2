@@ -28,8 +28,8 @@ Improve my coding skills
 Just search error
 
 ## 7. Describe the main challenges or obstacles you faced and how you overcame them.
-challenges: I forgot my password
-overcame: Retrieve by mail
+challenges: To Learn how use kivy really confused
+
 
 ## 8. Briefly describe your experience using classes and if/how they improved your code.
 class `__init__` method property can be has default value, make initialize is easy.
